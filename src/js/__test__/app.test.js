@@ -1,4 +1,4 @@
-import sortPlayerList from '../js/app';
+import sortPlayerList from '../app.js';
 
 test('Checking the correctness of sorting', () => {
   const data = [
